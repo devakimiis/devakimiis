@@ -39,7 +39,7 @@ body, html {
 
 hr {
   margin: auto;
-  width: 40%;
+  width: 30%;
 }
 </style>
 <body>
